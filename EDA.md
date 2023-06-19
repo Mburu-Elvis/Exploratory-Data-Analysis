@@ -31,4 +31,3 @@ Examples include:-
 - Box plots
 - Violin plots
 - Distribution plots
-
