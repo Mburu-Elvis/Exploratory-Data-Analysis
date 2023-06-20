@@ -8,7 +8,7 @@
 
 1. **Data Cleansing**
 
-- Handling missing values, outliers, transforming data types, removing corrut data and removing duplicates.
+- Handling missing values, outliers, transforming data types, removing corrupt data and removing duplicates.
 
 2. **Descriptive Analytics**
 
