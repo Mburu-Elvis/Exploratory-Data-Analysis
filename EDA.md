@@ -17,8 +17,8 @@ It refers to the process of :-
 - detection of errors
 - checking assumptions
 - preliminary selection of appropriate models
-- determiing the relstionship among input variables
-- assessing the drection and rough size of relationships between input and target variables
+- determining the relationship among input variables
+- assessing the direction and rough size of relationships between input and target variables
 
 ## EDA techniques
 
